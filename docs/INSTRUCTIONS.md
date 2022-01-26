@@ -29,10 +29,10 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 2. Maak screenshots en plaats ze in de Readme.
 3. Beschrijf in de Readme welke keuzes je gemaakt hebt in (het gebruik van) beeld en vorm, denk aan:  
  
- -Hoe is beeld gebruikt in de vormgeving?    
- -Is er met kaders en uitsnedes gewerkt?
- -Is er eenheid in vorm? denk aan lijndiktes/positief-negatief/ronde hoeken of juist niet?    
- -Passen de gekozen beelden inhoudelijk bij het ontwerp?
+ -Hoe is beeld gebruikt in de vormgeving?      
+ -Is er met kaders en uitsnedes gewerkt?  
+ -Is er eenheid in vorm? denk aan lijndiktes/positief-negatief/ronde hoeken of juist niet?      
+ -Passen de gekozen beelden inhoudelijk bij het ontwerp?  
 
 #### Materiaal analysefase
 
