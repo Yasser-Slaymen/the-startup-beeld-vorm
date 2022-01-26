@@ -31,15 +31,15 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
  
  -Hoe is beeld gebruikt in de vormgeving?    
  -Is er met kaders en uitsnedes gewerkt?
- - Is er eenheid in vorm? denk aan lijndiktes/positief-negatief/ronde hoeken of juist niet?    
- - Passen de gekozen beelden inhoudelijk bij het ontwerp?
+ -Is er eenheid in vorm? denk aan lijndiktes/positief-negatief/ronde hoeken of juist niet?    
+ -Passen de gekozen beelden inhoudelijk bij het ontwerp?
 
 #### Materiaal analysefase
 
 - [Beginning Graphic Design: Images](https://www.youtube.com/watch?v=MELKuexR3sQ)
 - [Learning Graphic Design: Cropping Photographs, LinkedIn Learning cursus](https://www.linkedin.com/learning/learning-graphic-design-cropping-photographs/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=2132228)
-- [Designing Icons for the Web, LinkedIn Learning cursus](https://www.linkedin.com/learning/designing-icons-for-the-web/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=2132228)
--- [Flexible Systems for Visual Identities, LinkedIn Learning cursus](https://www.linkedin.com/learning/flexible-systems-for-visual-identities/leveraging-a-brand-with-flexible-identities?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=2132228)
+- [Designing Icons for the Web, LinkedIn Learning cursus](https://www.linkedin.com/learning/designing-icons-for-the-web/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=2132228). 
+- [Flexible Systems for Visual Identities, LinkedIn Learning cursus](https://www.linkedin.com/learning/flexible-systems-for-visual-identities/leveraging-a-brand-with-flexible-identities?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=2132228)
 </details>
 
 ### Ontwerpen
@@ -56,8 +56,8 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 
 - [Beginning Graphic Design: Images](https://www.youtube.com/watch?v=MELKuexR3sQ)
 - [Learning Graphic Design: Cropping Photographs, LinkedIn Learning cursus](https://www.linkedin.com/learning/learning-graphic-design-cropping-photographs/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=2132228)
-- [Designing Icons for the Web, LinkedIn Learning cursus](https://www.linkedin.com/learning/designing-icons-for-the-web/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=2132228)
--- [Flexible Systems for Visual Identities, LinkedIn Learning cursus](https://www.linkedin.com/learning/flexible-systems-for-visual-identities/leveraging-a-brand-with-flexible-identities?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=2132228)
+- [Designing Icons for the Web, LinkedIn Learning cursus](https://www.linkedin.com/learning/designing-icons-for-the-web/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=2132228). 
+- [Flexible Systems for Visual Identities, LinkedIn Learning cursus](https://www.linkedin.com/learning/flexible-systems-for-visual-identities/leveraging-a-brand-with-flexible-identities?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=2132228)
 </details>
 
 
