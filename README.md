@@ -6,9 +6,10 @@
 
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
+Ik wilde een afbeelding aan de site toevoegen om te communiceren of een idee te geven over de sfeer van de studie in de klas en ook om de gebruiker aan te moedigen om samen te werken, behalve voor deze studie, en hier kwam ik verschillende technische problemen tegen tijdens het ontwerp in het begin. .  De truc kwam bij mij op om de afbeelding op een innovatieve manier in de notenbalk in te voegen, dus ik knipte de afbeelding en werkte aan het gebruik van css om de afbeeldingskwaliteit in verschillende formaten te behouden.  Ik gebruikte ook opvulling en gaf het dezelfde achtergrondkleur om het te laten lijken alsof de foto niet alleen op een mooie manier in het kader was geplaatst.  Het resultaat was naar tevredenheid en tegelijkertijd een huisstijl behouden
 
-<!-- Voeg een link toe naar Github Pages 🌐-->
+
+🌐 https://yasser-slaymen.github.io/the-startup-fdnd-skc/
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
